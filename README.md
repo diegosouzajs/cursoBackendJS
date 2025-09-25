@@ -22,7 +22,11 @@
 * Módulo 07 - Node.JS + Express
 * Módulo 08 - Soft Skills
 
+
 # Sugestão de atividades
+
+
+# Sugestão de novos sites
 
 
 
