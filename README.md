@@ -1,8 +1,8 @@
-#Curso de Backend JS
+# Curso de Backend JS
 
 
 
-##Documentação oficial
+## Documentação oficial
 
 - [Git](https://git-scm.com/doc)
 - [GitHub](https://docs.github.com/pt)
@@ -11,7 +11,7 @@
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
-##Conteúdo do curso
+## Conteúdo do curso
 
 - Módulo 01 - Git \& Validação
 - Módulo 02 - Lógica de Programação
