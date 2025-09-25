@@ -1,35 +1,24 @@
-# Comandos Básicos do Git
+\# Comandos Básicos do Git
 
 
 
-## Configuração Inicial
+\## Configuração Inicial
 
-- `git config --global user.name "Seu Nome"`  
-Define o nome do usuário que aparecerá nos commits.  
+\- `git config --global user.name "Seu Nome"`  
 
-- `git config --global user.email "seu@email.com"`  
-
-Define o e-mail associado aos commits.  
-
-- `git config --list`  
-
-Lista todas as configurações ativas do Git.  
-
----
+&nbsp; Define o nome do usuário que aparecerá nos commits.  
 
 
 
-## Criação e Clonagem de Repositórios
+\- `git config --global user.email "seu@email.com"`  
 
-- `git init`  
-
-Inicializa um novo repositório Git em um diretório.  
+&nbsp; Define o e-mail associado aos commits.  
 
 
 
-- `git clone <url>`  
+\- `git config --list`  
 
-Clona (copia) um repositório remoto para a máquina local.  
+&nbsp; Lista todas as configurações ativas do Git.  
 
 
 
@@ -37,41 +26,17 @@ Clona (copia) um repositório remoto para a máquina local.
 
 
 
-## Trabalhando com o Repositório
+\## Criação e Clonagem de Repositórios
 
-- `git status`  
+\- `git init`  
 
-Mostra o estado atual do repositório (arquivos modificados, staged etc.).  
-
-
-
-- `git add <arquivo>`  
-
-Adiciona um arquivo específico para a área de *staging*.  
+&nbsp; Inicializa um novo repositório Git em um diretório.  
 
 
 
-- `git add .`  
+\- `git clone <url>`  
 
-Adiciona todas as alterações do diretório atual para a *staging area*.  
-
-
-
-- `git commit -m "mensagem"`  
-
-Salva as alterações no repositório com uma mensagem descritiva.  
-
-
-
-- `git log`  
-
-Exibe o histórico de commits.  
-
-
-
-- `git diff`  
-
-Mostra as diferenças entre o código modificado e o último commit.  
+&nbsp; Clona (copia) um repositório remoto para a máquina local.  
 
 
 
@@ -79,71 +44,41 @@ Mostra as diferenças entre o código modificado e o último commit.
 
 
 
-## Branches
+\## Trabalhando com o Repositório
 
-- `git branch`  
+\- `git status`  
 
-Lista as branches existentes.  
-
-
-
-- `git branch <nome>`  
-
-Cria uma nova branch.  
+&nbsp; Mostra o estado atual do repositório (arquivos modificados, staged etc.).  
 
 
 
-- `git checkout <nome>`  
+\- `git add <arquivo>`  
 
-Alterna para outra branch.  
-
-
-
-- `git checkout -b <nome>`  
-
-Cria e já muda para uma nova branch.  
+&nbsp; Adiciona um arquivo específico para a área de \*staging\*.  
 
 
 
-- `git merge <nome>`  
+\- `git add .`  
 
-Mescla as alterações de uma branch na branch atual.  
-
-
-
----
+&nbsp; Adiciona todas as alterações do diretório atual para a \*staging area\*.  
 
 
 
-## Repositório Remoto
+\- `git commit -m "mensagem"`  
 
-- `git remote -v`  
-
-Lista os repositórios remotos vinculados.  
+&nbsp; Salva as alterações no repositório com uma mensagem descritiva.  
 
 
 
-- `git remote add origin <url>`  
+\- `git log`  
 
-Conecta o repositório local a um repositório remoto.  
-
-
-
-- `git push origin <branch>`  
-
-Envia as alterações para o repositório remoto.  
+&nbsp; Exibe o histórico de commits.  
 
 
 
-- `git pull origin <branch>`  
+\- `git diff`  
 
-Atualiza o repositório local com alterações do remoto.  
-
-
-
-- `git fetch`  
-
-Baixa os dados do remoto sem mesclar automaticamente.  
+&nbsp; Mostra as diferenças entre o código modificado e o último commit.  
 
 
 
@@ -151,26 +86,101 @@ Baixa os dados do remoto sem mesclar automaticamente.
 
 
 
-## Outros Úteis
+\## Branches
 
-- `git reset <arquivo>`  
+\- `git branch`  
 
-Remove um arquivo da área de *staging*.  
-
-
-
-- `git reset --hard <commit>`  
-
-Retorna o repositório ao estado de um commit específico, descartando alterações.  
+&nbsp; Lista as branches existentes.  
 
 
 
-- `git stash`  
+\- `git branch <nome>`  
 
-Salva temporariamente alterações não commitadas.  
+&nbsp; Cria uma nova branch.  
 
 
 
-- `git stash pop`  
+\- `git checkout <nome>`  
 
-Recupera alterações guardadas pelo `stash`. 
+&nbsp; Alterna para outra branch.  
+
+
+
+\- `git checkout -b <nome>`  
+
+&nbsp; Cria e já muda para uma nova branch.  
+
+
+
+\- `git merge <nome>`  
+
+&nbsp; Mescla as alterações de uma branch na branch atual.  
+
+
+
+---
+
+
+
+\## Repositório Remoto
+
+\- `git remote -v`  
+
+&nbsp; Lista os repositórios remotos vinculados.  
+
+
+
+\- `git remote add origin <url>`  
+
+&nbsp; Conecta o repositório local a um repositório remoto.  
+
+
+
+\- `git push origin <branch>`  
+
+&nbsp; Envia as alterações para o repositório remoto.  
+
+
+
+\- `git pull origin <branch>`  
+
+&nbsp; Atualiza o repositório local com alterações do remoto.  
+
+
+
+\- `git fetch`  
+
+&nbsp; Baixa os dados do remoto sem mesclar automaticamente.  
+
+
+
+---
+
+
+
+\## Outros Úteis
+
+\- `git reset <arquivo>`  
+
+&nbsp; Remove um arquivo da área de \*staging\*.  
+
+
+
+\- `git reset --hard <commit>`  
+
+&nbsp; Retorna o repositório ao estado de um commit específico, descartando alterações.  
+
+
+
+\- `git stash`  
+
+&nbsp; Salva temporariamente alterações não commitadas.  
+
+
+
+\- `git stash pop`  
+
+&nbsp; Recupera alterações guardadas pelo `stash`.  
+
+
+
