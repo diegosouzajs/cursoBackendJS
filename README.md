@@ -23,7 +23,10 @@
 * Módulo 08 - Soft Skills
 
 # Sugestão de novos sites
-
+- facebook
+- instagram
+- claude
+- reddit
 
 
 
