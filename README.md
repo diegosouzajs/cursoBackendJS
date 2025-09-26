@@ -23,7 +23,8 @@
 * Módulo 08 - Soft Skills
 
 # Sugestão de novos sites
-
+ - google.com
+ - chatgpt
 
 
 
