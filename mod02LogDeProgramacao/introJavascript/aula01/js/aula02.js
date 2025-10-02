@@ -17,7 +17,7 @@ Quando usar?
 */
 // declaração de variável
 var carro = "Fuscão preto"; // legado -> importante evitar o uso
-let idade; // atribui
+let idade; // cria uma variavél com valor undefined
 let nome = "Diego";
 
 console.log(carro);
