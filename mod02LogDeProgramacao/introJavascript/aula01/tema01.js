@@ -18,7 +18,7 @@ console.log(`"Olá", 'mundo'`); //aspas duplas e aspas simples
 
 
 /**
- * O comentário é comumente usado na linguagem java.
+ * Este tipo de comentário em bloco é comumente usado na linguagem java.
  * É adotado quando você deseja documentar formalmente o código
  * para que outras pessoas (ou ferramentas) entendam sua finalidade.
  * Ele não é apenas um comentário para programadores, mas um meio de gerar 
