@@ -29,8 +29,8 @@
 # Sugestão de novos sites
  - google.com
  - chatgpt
-- claude
-- reddit
+ - claude
+ - reddit
 
 
 
