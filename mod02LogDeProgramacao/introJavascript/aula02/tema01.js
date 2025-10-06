@@ -15,6 +15,9 @@ uma vez criados, não podem ser alterados — só substituídos.
     let id = Symbol("id");
     BigInt – usado para representar números inteiros muito grandes.
     let big = 123456789012345678901234567890n;
+
+Para verificar o tipo de um dado, usamos o método typeof
+    console.log(typeof nome, nome)
 */
 
 let nome = "Diego";
