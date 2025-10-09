@@ -34,13 +34,13 @@ const resto = num1 % 3;
 
 const estudante = true; 
 
-console.log(++num1);//'Incrementa o númer antes dele ser chamado',
+console.log(++num1);//'Incrementa o número antes dele ser chamado',
 console.log(num1++); // o número é apresentado e somente após é incrementado
 console.log(--num2); // o decremento ocorre  antes da apresentação do número
-console.log(num2--);
-console.log(soma);
-console.log(subtracao);
-console.log(multi);
-console.log(divisao);
-console.log(num2AoQuadrado);
-console.log(resto);
+console.log(num2--); // o decremento ocorre depois da apresentação do número
+console.log('Soma: ', soma);
+console.log('Sibtração: ', subtracao);
+console.log('Multiplicação: ',multi);
+console.log('Divisão: ',divisao);
+console.log('Número ao quadrado: ',num2AoQuadrado);
+console.log('Resto da divisão: ',resto);
