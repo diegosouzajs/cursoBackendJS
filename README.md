@@ -37,6 +37,14 @@
  - [Next Leap](https://nextleap.app/online-compiler/javascript-programming)
  - [W3Schools](https://www.w3schools.com/js/js_editor.asp)
 
+## Curso gratuitos
+ - [Git](https://www.udemy.com/course/git-e-github/)
+ - [Lógica de programação ](https://www.youtube.com/watch?v=0hN7_TTuR2M&list=PLfzRxaru7YPtu8TPQChFnLN9rGXoXfNUQ)
+ - [Lógica de programação](https://www.udemy.com/course/curso-pratico-de-logica-de-programacao-com-portugol/)
+ - [Javascript](https://www.youtube.com/watch?v=vEwPnjqWQ-g&list=PL2Fdisxwzt_d590u3uad46W-kHA0PTjjw)
+ - [Banco de dados](https://www.youtube.com/watch?v=GdxodSoV_5k&list=PLvUnyzH5T1MwlompyzqZ1ADY0F92Bd7DS)
+ - [CSS](https://www.udemy.com/course/curso-basico-de-css3-tipscode/)
+ - [HTML](https://www.udemy.com/course/introducao-a-linguagem-html/)
 
 
 
