@@ -1,6 +1,15 @@
 # Curso de Backend JS
 
+## Conteúdo do curso
 
+* [Módulo 01 - Git \& Validação](https://www.canva.com/design/DAGvZVPKpBc/hoiSlnSG4qRt7IIQDJnuMA/edit)
+* [Módulo 02 - Lógica de Programação Parte 1](https://www.canva.com/design/DAGxv3eca58/-d5D6kdQ2FFjZBmtdMlkdw/edit)
+* Módulo 03 - Programação Orientada a Objeto
+* Módulo 04 - Banco de dados
+* Módulo 05 - Padrões de Softwares
+* Módulo 06 - WebServices
+* Módulo 07 - Node.JS + Express
+* Módulo 08 - Soft Skills
 
 ## Documentação oficial
 
@@ -11,26 +20,18 @@
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
-## Conteúdo do curso
+## Programas
+ - [Node](https://nodejs.org/pt)
+ - [Vscode](https://code.visualstudio.com/)
+ - [GitHub](https://github.com/?locale=pt-br)
+ - [Git](https://git-scm.com/downloads)
 
-* Módulo 01 - Git \& Validação
-* Módulo 02 - Lógica de Programação
-* Módulo 03 - Programação Orientada a Objeto
-* Módulo 04 - Banco de dados
-* Módulo 05 - Padrões de Softwares
-* Módulo 06 - WebServices
-* Módulo 07 - Node.JS + Express
-* Módulo 08 - Soft Skills
+## Compiladores online
+ - [RunJS](https://runjs.app/play)
+ - [PlayCode](https://playcode.io/new)
+ - [Next Leap](https://nextleap.app/online-compiler/javascript-programming)
+ - [W3Schools](https://www.w3schools.com/js/js_editor.asp)
 
-
-# Sugestão de atividades
-
-
-# Sugestão de novos sites
- - google.com
- - chatgpt
- - claude
- - reddit
 
 
 
