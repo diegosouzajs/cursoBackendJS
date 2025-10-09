@@ -1,5 +1,10 @@
 # Curso de Backend JS
 
+## Conteúdo da aula inaugural
+
+ - [Apresentação e conceitos](https://www.canva.com/design/DAGs3BVAI4A/ZUhyaDnoFCt3Zuz4Fxr-Dg/edit)
+ - [Conteúdo programático](https://www.canva.com/design/DAGs3vWWvNY/jvOrpL2qVBU7BLAY9QRIuQ/edit)
+
 ## Conteúdo do curso
 
 * [Módulo 01 - Git \& Validação](https://www.canva.com/design/DAGvZVPKpBc/hoiSlnSG4qRt7IIQDJnuMA/edit)
