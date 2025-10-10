@@ -24,6 +24,7 @@
 * [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [DOM](https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model/Introduction)
 
 ## Programas
  - [Node](https://nodejs.org/pt)
