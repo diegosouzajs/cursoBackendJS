@@ -47,6 +47,49 @@
  - [CSS](https://www.udemy.com/course/curso-basico-de-css3-tipscode/)
  - [HTML](https://www.udemy.com/course/introducao-a-linguagem-html/)
 
+## Plugins úteis do vscode
+ - Code Runner: plugin capaz de executar diversas linguagens diretamente no vscode
+ - Material Icon Theme: modifica os ícones dos arquivos e pastas do explorer do vscode
+ - Om Theme (A Darker Dracula Theme): tema que utilizo em meu Vscode
+ - Live Server: Execute um servidor local de desenvolvimento com recarregamento automático para páginas estáticas e dinâmicas
 
+ ## Meu arquivo settings.json do vscode
+
+ Para configurar o seu settings.json siga os  seguintes passos:
+
+- Acesse Manage ou Gerenciar (ícone de engrenagem que fica no rodapé da tela) ou através do atalho Ctrl+,
+- Opção Settings ou Configurações
+- Em seguida clicar no ícone do arquivo Open Setting (JSON) que fica no canto superior direito da tela
+
+o arquivo settings.json será apresentado. Copie o conteúdo abaixo e cole diretamente nele. Em seguida, salve
+
+```json
+{
+    "editor.fontSize": 14,
+    "editor.hover.enabled": true,
+    "workbench.startupEditor": "none",
+    "explorer.compactFolders": false,
+    "terminal.integrated.fontSize": 14,
+    "editor.rulers": [80, 120],
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "workbench.iconTheme": "material-icon-theme",
+    "code-runner.ignoreSelection": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.runInOutputWindow": false,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "javascript": "cls ; node \"$file\""
+    },
+    "editor.fontFamily": "Consolas, 'Dank Mono', 'Source Code Pro', 'Fira Code', Menlo, 'Inconsolata', 'Droid Sans Mono', 'DejaVu Sans Mono', 'Ubuntu Mono', 'Courier New', Courier, Monaco, monospace",
+    "terminal.integrated.fontFamily": "",
+    "cSpell.enabled": false,
+    "notebook.output.textLineLimit": 100,
+    "notebook.output.scrolling": true,
+    "editor.largeFileOptimizations": false,
+    "search.showLineNumbers": true,
+    "workbench.editor.enablePreview": false,
+    "editor.minimap.enabled": false
+}
+```
 
 
