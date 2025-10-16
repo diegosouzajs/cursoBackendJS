@@ -9,7 +9,7 @@
 
 * [Módulo 01 - Git \& Validação](https://www.canva.com/design/DAGvZVPKpBc/hoiSlnSG4qRt7IIQDJnuMA/edit)
 * [Módulo 02 - Lógica de Programação Parte 1](https://www.canva.com/design/DAGxv3eca58/-d5D6kdQ2FFjZBmtdMlkdw/edit)
-- [Módulo 02 - Lógica de programação Parte2](https://www.canva.com/design/DAGs3zuE_VY/C-c_iCCr6R9e_7mlt04ytg/edit)
+* [Módulo 02 - Lógica de programação Parte2](https://www.canva.com/design/DAGs3zuE_VY/C-c_iCCr6R9e_7mlt04ytg/edit)
 * Módulo 03 - Programação Orientada a Objeto
 * Módulo 04 - Banco de dados
 * Módulo 05 - Padrões de Softwares
