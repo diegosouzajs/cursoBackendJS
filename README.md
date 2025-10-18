@@ -17,6 +17,9 @@
 * Módulo 07 - Node.JS + Express
 * Módulo 08 - Soft Skills
 
+## Lista de exercícios
+- [Lógica de programação e Introdução ao javascript](mod02LogDeProgramacao/exercicios.pdf)
+
 ## Documentação oficial
 
 * [Git](https://git-scm.com/doc)
