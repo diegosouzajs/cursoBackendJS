@@ -18,7 +18,7 @@
 * Módulo 08 - Soft Skills
 
 ## Lista de exercícios
-- [Lógica de programação e Introdução ao javascript](mod02LogDeProgramacao/exercicios.pdf)
+- [Lógica de programação e Introdução ao javascript](https://github.com/diegosouzajs/cursoBackendJS/blob/main/mod02LogDeProgramacao/exercicios.pdf)
 
 ## Documentação oficial
 
