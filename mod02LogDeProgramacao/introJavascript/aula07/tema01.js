@@ -30,3 +30,5 @@ console.log(array);
 
 // A única operação que não funciona é reatribuir a variável:
 array = 'Legal'; // ❌ Erro: Assignment to constant variable
+
+

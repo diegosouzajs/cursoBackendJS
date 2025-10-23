@@ -36,7 +36,7 @@ console.log(nome+' '+ sobrenome +' tem '+ idade +' anos, pesa '+peso+'kg. Tem '+
     alturaEmM+'m altura e seu IMC é de '+imc)
 
 console.log(nome, sobrenome,' tem ', idade,' anos, pesa ', peso,'kg. Tem ',
-    altura,'m altura e seu IMC é de ',imc)
+    alturaEmM,'m altura e seu IMC é de ',imc)
 
 
 console.log(`${nome} ${sobrenome} tem ${idade} anos, pesa ${peso} kg. 
