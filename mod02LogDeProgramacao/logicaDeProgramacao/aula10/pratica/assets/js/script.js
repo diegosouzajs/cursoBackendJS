@@ -1,4 +1,5 @@
-// Todas as variáveis declaradas aqui em cima - fora das funções - são consideradas GLOBAIS e funcionam dentro de qualquer outra função!
+// Todas as variáveis declaradas aqui em cima - fora das funções - são consideradas 
+// GLOBAIS e funcionam dentro de qualquer outra função!
 
 // utilizo o seletor querySelector para buscar no meu html o objeto de id = resultado
 let resposta = document.querySelector('#resultado');
