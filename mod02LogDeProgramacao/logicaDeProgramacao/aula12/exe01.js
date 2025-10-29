@@ -1,5 +1,4 @@
 /*
-
 Exercício – Manipulação de notas com desestruturação e forEach
 
 Você recebeu uma lista de alunos e suas respectivas notas em três avaliações.
@@ -30,6 +29,7 @@ Exiba os resultados formatados no console.
 */
 
 // Lista de alunos: [nome, nota1, nota2, nota3]
+// um array que contem 4 arrays
 const alunos = [
   ["Ana", 8.5, 7.0, 9.0],
   ["Bruno", 6.0, 4, 7.0],
@@ -37,49 +37,22 @@ const alunos = [
   ["Diego", 7.5, 8, 7.0]
 ];
 
+//executo o forEach no array principal
 alunos.forEach((aluno) => {
+  // realizo a atribuição por desestruturação em cada array que está
+  // dentro do array principal
   const [nome, n1, n2,n3] = aluno;
   
+  // calculo a média
   const media = ((n1+n2+n3)/3).toFixed(2);
+
+  //utilizo operador ternário para indicar a situação do aluno
   const situacao = media >= 6? 'Aprovado':'Reprovado';
 
+  // imprimo o resultado
   console.log('Aluno:',nome);
   console.log(`Notas: ${n1}, ${n2}, ${n3}`);
   console.log('Média:',media);
   console.log('Situacao:',situacao);
   console.log('-------------------------');
 })
-
-
-
-
-
-
-
-// alunos.forEach((aluno) => {
-//   const [nome, nota1, nota2, nota3] = aluno; 
-//   const media = ((nota1 + nota2 + nota3)/3).toFixed(2);
-//   const situacao = media >= 6 ? 'Aprovado': 'Reprovado';
-
-//   console.log(`Nome: ${nome}`)
-//   console.log(`Notas: ${nota1}, ${nota2}, ${nota3},`)
-//   console.log(`Média: ${media}`);
-//   console.log(`Situação: ${situacao}`);
-//   console.log(`-----------------------`)
-// })
-
-
-// // // Percorre cada aluno da lista
-// // alunos.forEach((aluno) => {
-// //   // Desestruturação: separa o nome e as três notas
-// //   const [nome, n1, n2, n3] = aluno;
-
-// //   // Calcula a média
-// //   const media = ((n1 + n2 + n3) / 3).toFixed(2);
-
-// //   // Exibe os dados formatados
-// //   console.log(`Aluno: ${nome}`);
-// //   console.log(`Notas: ${n1}, ${n2}, ${n3}`);
-// //   console.log(`Média: ${media}`);
-// //   console.log('----------------------------');
-// // });
