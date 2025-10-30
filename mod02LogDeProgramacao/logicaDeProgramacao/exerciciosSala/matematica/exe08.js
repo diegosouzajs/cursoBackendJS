@@ -28,6 +28,8 @@ console.log('Valor de delta',delta);
 console.log("Valor de x'",xLinha(delta));
 console.log('Valor de x"',xDuasLinhas(delta));
 
+// comentário apenas
+
 
 
 
