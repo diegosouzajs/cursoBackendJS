@@ -18,7 +18,12 @@
 * Módulo 08 - Soft Skills
 
 ## Lista de exercícios
-- [Lógica de programação e Introdução ao javascript](https://github.com/diegosouzajs/cursoBackendJS/blob/main/mod02LogDeProgramacao/exercicios.pdf)
+- [Lógica de programação e Introdução ao javascript](https://drive.google.com/file/d/1t6DsRwW8aP0yuo3k43q2WAaifaym6T32/view?usp=sharing)
+
+## Conteúdo extra
+ - [HTML](https://www.facom.ufu.br/~rafaelaraujo/docs/GSI019/2-HTML.pdf)
+ - [Javascript](https://www.facom.ufu.br/~rafaelaraujo/docs/GSI019/6-Javascript.pdf)
+  - [DOM](https://braganholo.github.io/material/gdse/13-DOM.pdf)
 
 ## Documentação oficial
 
