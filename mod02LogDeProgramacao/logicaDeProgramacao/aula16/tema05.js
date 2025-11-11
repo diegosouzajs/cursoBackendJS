@@ -37,15 +37,20 @@ O loop continua com a próxima iteração.
 // console.log('Oi, sai do do... while');
 
 
-const user = 'diego.souza';
-const senha = '124';
 
-
+// o erro era que os valores de user e senha eram constantes. Neste contexto, 
+// o laço while nunca era executado
+let user;
+let senha;
 
 do {
-  if(user === 'diego.souza' && senha === '123'){
-    console.log('Usuário autenticado');
-    }else{
-    console.log('Usuário ou senha errado!')
+  user = prompt("Digite o usuário:");
+  senha = prompt("Digite a senha:");
+
+  if (user === "diego.souza" && senha === "123") {
+    console.log("Usuário autenticado!");
+  } else {
+    console.log("Usuário ou senha incorretos. Tente novamente.");
   }
-}while(user !== 'diego.souza' && senha !== '123')
+
+} while (user !== "diego.souza" || senha !== "123");
