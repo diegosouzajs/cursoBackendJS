@@ -14,24 +14,58 @@ O programa deve:
 
 */
 
-const numerosPrimos = []
+const numerosPrimos = [];
 
 function ehPrimo(numero){
-    if (numero <= 1) return false;
+    if(numero <= 1) return false;
 
-    // precisamos verificar até a raiz quadrada do número
-    for (let i = 2; i <= Math.sqrt(numero); i++){
-        if(numero % i === 0) return false
+    for(let i = 2; i <= Math.sqrt(numero); i++){
+        if (numero % i === 0)
+            return false;
     }
     return true;
 }
 
-for (let n = 0; n <= 1000; n++){
-    if(ehPrimo(n)){
-        numerosPrimos.push(n);
+for(let i = 0; i <= 1000; i++){
+    if(ehPrimo(i)){
+        numerosPrimos.push(i)
     }
 }
 
-console.log('Números primos entre 0 e 1000');
-console.log("----------------------------------")
+console.log('----- Números Primos -----')
 console.table(numerosPrimos);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// const numerosPrimos = []
+
+// function ehPrimo(numero){
+//     if (numero <= 1) return false;
+
+//     // precisamos verificar até a raiz quadrada do número
+//     for (let i = 2; i <= Math.sqrt(numero); i++){
+//         if(numero % i === 0) return false
+//     }
+//     return true;
+// }
+
+// for (let n = 0; n <= 1000; n++){
+//     if(ehPrimo(n)){
+//         numerosPrimos.push(n);
+//     }
+// }
+
+// console.log('Números primos entre 0 e 1000');
+// console.log("----------------------------------")
+// console.table(numerosPrimos);
