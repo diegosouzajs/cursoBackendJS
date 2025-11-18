@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- IMPORTANTE - o código que incorpora o css deve ser inserido antes da tag title -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Título da página</title>
+</head>
+
+<body>
+    <section class="container">
+        <h1> Título</h1>
+        <div id="resultado">teste</div>
+
+        <p id="mensagem"><strong>Olá</strong> mundo!</p>
+        <p id="novaMensagem"><strong>Testando</strong></p>
+        <script>
+            const paragrafo = document.getElementById('resultado');
+            paragrafo.innerHTML = "<p>Texto alterado! </p>";
+        </script>
+    </section>
+
+
+    <script src="assets/js/script.js"></script>
+</body>
+
+</html>
