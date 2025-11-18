@@ -1,0 +1,237 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+:root {
+  --primary-color: #4f6575;
+  --primary-color-dark: #104469;
+  --danger-color: #7e1818;
+}
+
+* {
+  box-sizing: border-box;
+  outline: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--primary-color);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.3em;
+  line-height: 1.5em;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 50px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+/* ===========================
+   FORMULÁRIO
+=========================== */
+
+form input, form label, form button {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+form input {
+  font-size: 18px;
+  height: 50px;
+  padding: 0 20px;
+}
+
+form input:focus {
+  outline: 1px solid var(--primary-color);
+}
+
+form button {
+  margin-top: 30px;
+  border: none;
+  background-color: var(--primary-color);
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 50px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+form button:hover {
+  background-color: var(--primary-color-dark);
+}
+
+/* ===========================
+   MENSAGENS
+=========================== */
+
+.error {
+  background-color: crimson;
+  padding: 20px;
+  line-height: 1.5em;
+  color: #fff;
+}
+
+.success {
+  margin-top: 20px;
+  background-color: aqua;
+  padding: 20px;
+  line-height: 1.5em;
+}
+
+.resultado {
+  margin: 30px 0;
+  border-radius: 15px;
+}
+
+/* ===========================
+   LAYOUT DE COLUNAS
+=========================== */
+
+.colunas {
+  display: flex;
+  justify-content: justify;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.coluna {
+  width: 45%;
+  padding: 20px;
+  background-color: #eee;
+  border-radius: 5px;
+}
+
+/* ===========================
+   LISTA DE TAREFAS
+=========================== */
+
+.tarefas {
+  list-style-type: disc;
+  padding-left: 0px;
+}
+
+.tarefas li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #f6f6f6;
+  padding: 10px 15px;
+  margin-bottom: 8px;
+  border-radius: 8px;
+  transition: background 0.3s;
+}
+
+.tarefas li:hover {
+  background: #eaeaea;
+}
+
+/* ===========================
+   BOTÕES DE TAREFA
+=========================== */
+
+.tarefas button {
+  padding: 5px 10px;
+  margin-left: 5px;
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.tarefas .editar {
+  background-color: var(--primary-color-dark);
+}
+
+.tarefas .editar:hover {
+  background-color: var(--primary-color);
+}
+
+.tarefas .apagar {
+  background-color: var(--danger-color);
+}
+
+.tarefas .apagar:hover {
+  background-color: #a01e1e;
+}
+
+/* ===========================
+   BOTÃO PRINCIPAL
+=========================== */
+
+button.btn-tarefa {
+  padding: 8px 12px !important;
+  border-radius: 10px;
+  border: none;
+  background-color: var(--primary-color-dark);
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 40px;
+  cursor: pointer;
+  color: #fff;
+}
+
+button.btn-tarefa:hover {
+  background-color: var(--primary-color);
+}
+
+.input-tarefa {
+  line-height: 50px;
+  width: 85%;
+  margin: 50px auto;
+}
+
+.tarefas li {
+  display: flex;
+  justify-content: space-between;   /* TEXTO à esquerda / BOTÕES à direita */
+  align-items: center;
+  background-color: #f4f4f4;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+/* container dos botões */
+.tarefas li .acoes {
+  display: flex;
+  gap: 10px;              /* espaço entre botões */
+  justify-content: flex-end;
+  align-items: center;
+}
+
+/* estilo dos botões dentro da li */
+.tarefas li button {
+  margin: 0;              /* remove margin que estava quebrando o alinhamento */
+  padding: 6px 10px;
+  line-height: normal;
+}
+
+/* container de entrada */
+#entrada-tarefa {
+  justify-content: space-between;
+}
+
+.input-edicao {
+  line-height: 25px;
+  width: 85%;
+  margin: 25px auto;
+}
+
+.salvar {
+  padding: 8px 12px !important;
+  border-radius: 10px;
+  border: none;
+  background-color: var(--primary-color-dark);
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 40px;
+  cursor: pointer;
+  color: #fff;
+}
