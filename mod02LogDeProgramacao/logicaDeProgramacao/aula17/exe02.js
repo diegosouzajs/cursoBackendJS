@@ -36,7 +36,7 @@ function iniciarMonitoramento() {
         clearTimeout(alerta);
         console.log("❌ Alerta cancelado pelo operador.");
     }, 10000);
-
+x
     // Opcional: encerrar o sistema após 15 segundos
     setTimeout(() => {
         clearInterval(verificacao);
