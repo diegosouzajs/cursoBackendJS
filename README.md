@@ -18,6 +18,9 @@
 * Módulo 07 - Node.JS + Express
 * Módulo 08 - Soft Skills
 
+## Aulas remotas
+- [To-do list](https://academicoifmg-my.sharepoint.com/:v:/g/personal/diego_souza_academico_ifmg_edu_br/ERahAxMn1QVNier0_fFc4JgBvBxpdZu3B1jKzthTqyk3Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=mRiXW3)
+- [Calculador](https://academicoifmg-my.sharepoint.com/:v:/g/personal/diego_souza_academico_ifmg_edu_br/IQBdqt1lyegeRJXQcyja8ub9Adp0kNFJ_Xy08dffCCkYoB8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ShRIo4)
 ## Lista de exercícios
 - [Lógica de programação e Introdução ao javascript](https://drive.google.com/file/d/1t6DsRwW8aP0yuo3k43q2WAaifaym6T32/view?usp=sharing)
 
