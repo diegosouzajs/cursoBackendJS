@@ -76,12 +76,12 @@ console.log(fatorial(8));
 
 const valor = 10;
 
+//função imediata ou autoinvocada
 (function conta(){
     const valor = 1000;
 })();
 
-// função dentro de objeto é um método
-
+// função dentro de objeto(método)
 const conta = {
     saldo: 1000,
     numero: '10123-4',
@@ -111,7 +111,7 @@ console.log(conta.saque(1000));
 
 
 
-
+//função que recebe um número indefinido de parâmetros
 function somarTudo(...numeros) {
   return numeros.reduce((total, n) => total + n, 0);
 }

@@ -53,6 +53,8 @@ function soma(a, b = 2, c = 4){
     console.log(a + b + c);
 }
 
+// a utilização do undefined como argumento de uma função, força a adoção do 
+// valor indicado como default(caso ele tenha sido indicado)
 soma(2, undefined, 20);
 
 // Podemos também fazer atribuição por desestruturação, para a função

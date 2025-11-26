@@ -4,6 +4,7 @@
 // uma função construtora deve sempre iniciar com letra maiúscula
 // sua chamada deve utilizar a palavra reservada new NomeDaFuncao(argumentos);
 
+// atribuição por desestruturação de uma lista
 function Funcionario([nome, sobrenome, idade, funcao]){
     this.nome = nome;
     this.sobrenome = sobrenome;
@@ -25,7 +26,8 @@ const pessoa3 = new Funcionario(['Jonas','Oliveira',20,' DevOps']);
 
 console.log(typeof pessoa1);
 
-function imprimeObj({nome, sobrenome, idade, funcao, apresentar}){
+//atribuição por desestruturação de um objeto como parâmetro de uma função
+function imprimeObj({nome, sobrenome, idade, funcao}){
     console.log('Nome: ', nome);
     console.log('Sobrenome: ', sobrenome);
     console.log('Idade: ', idade);
@@ -53,6 +55,7 @@ console.log('Sobrenome: ', pessoa3.sobrenome);
 console.log('Idade: ', pessoa3.idade);
 console.log('Funcao: ', pessoa3.funcao);
 
+// utilizando rest operator para armazenar o restante dos parâmetros
 function Pessoa(nome,  sobrenome, ...rest ){
     this.nome = nome;
     this.sobrenome = sobrenome;
@@ -67,12 +70,16 @@ function Pessoa(nome,  sobrenome, ...rest ){
     };    
 }
 
+// instanciando uma função construtora
+// observe o uso da palavra reservada new
 const pessoa4 = new Pessoa('Diego','Souza',39,'Analista');
 
 console.log(pessoa1.nomeCompleto());
 pessoa1.imprirResto();
 
-
+// utilizando arguments(legado)
+// arguments armazena todos os argumentos passados para uma função
+// em um formato similar ao de uma lista
 function lerNumeros(){
     // const soma = arguments.reduce((total, n) => total + n, 0);
     // console.log(soma);
