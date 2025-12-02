@@ -1,5 +1,5 @@
 /*
-Implemente uma função chamada criar_contador(incremento) que:
+Implemente uma função chamada criarContador(incremento) que:
 Receba como parâmetro um valor numérico incremento.
 Retorne uma função interna (closure) chamada contar().
 A função contar() deve:
@@ -17,27 +17,66 @@ Execute as chamadas:
 */
 
 function criarContador(incremento){
-    let valor = 0 
-    return function(){
-        valor += incremento;
-        return valor;
+    let valor = 0;
+    return function (){
+        return valor += incremento;
     }
 }
+// instância principal
+const c1 = criarContador(2);
+const c2 = criarContador(5);
 
-
-const contador = criarContador(2);
-const contador2 = criarContador(5);
-
-console.log('Contando de 2 em 2')
-console.log(contador());
-console.log(contador());
-console.log(contador());
-console.log(contador());
+console.log(c1()); // 2
+console.log(c1()); // 4
 
 console.log();
 
-console.log('Contando de 5 em 5')
-console.log(contador2());
-console.log(contador2());
-console.log(contador2());
-console.log(contador2());
+console.log(c2()); // 5
+console.log(c2()); // 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// function criarContador(incremento){
+//     let valor = 0 
+//     return function(){
+//         valor += incremento;
+//         return valor;
+//     }
+// }
+
+
+// const contador = criarContador(2);
+// const contador2 = criarContador(5);
+
+// console.log('Contando de 2 em 2')
+// console.log(contador());
+// console.log(contador());
+// console.log(contador());
+// console.log(contador());
+
+// console.log();
+
+// console.log('Contando de 5 em 5')
+// console.log(contador2());
+// console.log(contador2());
+// console.log(contador2());
+// console.log(contador2());
