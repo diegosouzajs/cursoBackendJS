@@ -42,11 +42,11 @@ function criaPessoa(nome, sobrenome, altura, peso){
 
         },
         fala(assunto = 'falando sobre NADA'){
-            return `${this.nome} - ${this.peso}kg está falando ${assunto}.`
+            return `${nome} - ${peso}kg está falando ${assunto}.`
         },
         // "transforma" o método em atributo (getter)
         get imc(){
-            const indice = this.peso / (this.altura ** 2);
+            const indice = peso / (altura ** 2);
             return indice.toFixed(2);
         },
 
