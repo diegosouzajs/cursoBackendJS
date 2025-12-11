@@ -11,7 +11,7 @@
 * [Módulo 02 - Lógica de Programação Parte 1](https://www.canva.com/design/DAGxv3eca58/-d5D6kdQ2FFjZBmtdMlkdw/edit)
 * [Módulo 02 - Lógica de programação Parte2](https://www.canva.com/design/DAGs3zuE_VY/C-c_iCCr6R9e_7mlt04ytg/edit)
 * [Módulo 03 - Programação Orientada a Objeto - Parte 1](https://www.canva.com/design/DAG2UzE65kQ/8pc4HdFlhBUMLBl6Ug3cow/edit)
-* Módulo 03 - Programação Orientada a Objeto - Parte 2
+* [Módulo 03 - Programação Orientada a Objeto - Parte 2](https://www.canva.com/design/DAGwK254KDo/vWVWUxa_CijcaRmDUiaKPg/edit)
 * Módulo 04 - Banco de dados
 * Módulo 05 - Padrões de Softwares
 * Módulo 06 - WebServices
