@@ -23,6 +23,7 @@
 - [Calculador](https://academicoifmg-my.sharepoint.com/:v:/g/personal/diego_souza_academico_ifmg_edu_br/IQBdqt1lyegeRJXQcyja8ub9Adp0kNFJ_Xy08dffCCkYoB8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ShRIo4)
 ## Lista de exercícios
 - [Lógica de programação e Introdução ao javascript](https://drive.google.com/file/d/1t6DsRwW8aP0yuo3k43q2WAaifaym6T32/view?usp=sharing)
+- [Programação Orientada a Objetos](https://drive.google.com/file/d/1knuBTyuH_RkIsR0OQm1illEbFLEnwi_v/view?usp=drive_link)
 
 ## Conteúdo extra
  - [HTML](https://www.facom.ufu.br/~rafaelaraujo/docs/GSI019/2-HTML.pdf)
