@@ -1,0 +1,50 @@
+﻿id_cliente;nome;tel;email;endereço;cidade;dia_cadastro;mês_cadastro;ano-cadastro
+134598;José;(32)544317012;josé@sqlmail.com;rua ana  prado  n° 4485;Salvador;23;5;2020
+134599;João;(32)416199131;joão@sqlmail.com;rua francisco  silva  n° 4605;Brasília;30;3;2020
+134600;Antônio;(32)447122351;antônio@sqlmail.com;rua joana  prado  n° 5907;Brasília;10;8;2020
+134601;Francisco;(32)744535876;francisco@sqlmail.com;rua carlos  gomes  n° 5535;Brasília;19;2;2021
+134602;Carlos;(32)222639053;carlos@sqlmail.com;rua vera  prado  n° 4569;Rio de Janeiro;12;6;2021
+134603;Paulo;(32)866110842;paulo@sqlmail.com;rua kezia  almeida  n° 6308;Brasília;30;3;2020
+134604;Pedro;(32)506336252;pedro@sqlmail.com;rua willian  gomes  n° 6225;Brasília;16;4;2021
+134605;Lucas;(32)985764817;lucas@sqlmail.com;rua melquisedeque  reis  n° 2707;Brasília;23;4;2021
+134606;Luiz;(32)362297448;luiz@sqlmail.com;rua julio  reis  n° 1811;Rio de Janeiro;13;3;2020
+134607;Marcos;(32)403632523;marcos@sqlmail.com;rua maria  delgao  n° 5883;Rio de Janeiro;4;2;2021
+134608;Luis;(32)241115695;luis@sqlmail.com;rua veneranda  souza  n° 1402;Salvador;26;1;2020
+134609;Gabriel;(32)397602244;gabriel@sqlmail.com;rua ronne  souza  n° 4852;São Paulo;20;3;2020
+134610;Rafael;(32)134478260;rafael@sqlmail.com;rua walliton  junior  n° 212;Rio de Janeiro;16;8;2020
+134611;Daniel;(32)894840423;daniel@sqlmail.com;rua clecio  pereira  n° 2102;Rio de Janeiro;29;11;2020
+134612;Marcelo;(32)496361982;marcelo@sqlmail.com;rua alessandra  vagas  n° 6359;Brasília;1;8;2021
+134613;Bruno;(32)944848322;bruno@sqlmail.com;rua omar  vagas  n° 2137;Rio de Janeiro;22;11;2020
+134614;Eduardo;(32)851734687;eduardo@sqlmail.com;rua laurem  souza  n° 172;Rio de Janeiro;14;7;2020
+134615;Felipe;(32)138122469;felipe@sqlmail.com;rua ana  prado  n° 44;Rio de Janeiro;25;10;2020
+134616;Raimundo;(32)421627148;raimundo@sqlmail.com;rua francisco  silva  n° 4613;São Paulo;26;5;2021
+134617;Rodrigo;(32)799732725;rodrigo@sqlmail.com;rua joana  prado  n° 5123;Rio de Janeiro;7;2;2021
+134618;Nome;(32)659657888;nome@sqlmail.com;rua carlos  gomes  n° 5345;Salvador;18;2;2021
+134619;Antônia;(32)473640722;antônia@sqlmail.com;rua vera  prado  n° 467;Salvador;7;9;2020
+134620;Adriana;(32)298544938;adriana@sqlmail.com;rua kezia  almeida  n° 63;Rio de Janeiro;29;3;2021
+134621;Juliana;(32)794414473;juliana@sqlmail.com;rua willian  gomes  n° 62;São Paulo;18;5;2021
+134622;Márcia;(32)155458477;márcia@sqlmail.com;rua melquisedeque  reis  n° 27;São Paulo;21;12;2020
+134623;Fernanda;(32)484352407;fernanda@sqlmail.com;rua julio  reis  n° 181;São Paulo;31;7;2021
+134624;Aline;(32)287266330;aline@sqlmail.com;rua maria  delgao  n° 58;Brasília;26;2;2020
+134625;Camila;(32)215797577;camila@sqlmail.com;rua veneranda  souza  n° 14;Brasília;29;1;2021
+134626;Amanda;(32)835086540;amanda@sqlmail.com;rua ronne  souza  n° 48;Rio de Janeiro;9;1;2020
+134627;Bruna;(32)254891489;bruna@sqlmail.com;rua walliton  junior  n° 2;Brasília;26;3;2020
+134628;Jéssica;(32)777551519;jéssica@sqlmail.com;rua clecio  pereira  n° 21;Rio de Janeiro;7;8;2021
+134629;Leticia;(32)628286628;leticia@sqlmail.com;rua alessandra  vagas  n° 635;Rio de Janeiro;15;7;2021
+134630;Júlia;(32)791273625;júlia@sqlmail.com;rua omar  vagas  n° 213;São Paulo;1;3;2021
+134631;Luciana;(32)808260932;luciana@sqlmail.com;rua laurem  souza  n° 17;Brasília;6;8;2021
+134632;Vanessa;(32)451963106;vanessa@sqlmail.com;rua melquisedeque  reis  n° 2707;Rio de Janeiro;11;5;2020
+134633;Mariana;(32)462601718;mariana@sqlmail.com;rua julio  reis  n° 1811;Brasília;3;6;2021
+134634;Carlos;(32)108304087;carlos@sqlmail.com;rua maria  delgao  n° 5883;Rio de Janeiro;9;2;2021
+134635;Paulo;(32)700681534;paulo@sqlmail.com;rua veneranda  souza  n° 140;Rio de Janeiro;20;8;2020
+134636;Pedro;(32)311044502;pedro@sqlmail.com;rua ronne  souza  n° 4852;Rio de Janeiro;8;9;2020
+134637;Lucas;(32)541378114;lucas@sqlmail.com;rua walliton  junior  n° 212;Salvador;17;4;2021
+134638;Luiz;(32)193071722;luiz@sqlmail.com;rua clecio  pereira  n° 210;São Paulo;14;9;2020
+134639;Marcos;(32)652139121;marcos@sqlmail.com;rua alessandra  vagas  n° 6359;São Paulo;2;1;2020
+134640;Luis;(32)352793757;luis@sqlmail.com;rua omar  vagas  n° 2137;Brasília;8;1;2020
+134641;Gabriel;(32)374808219;gabriel@sqlmail.com;rua laurem  souza  n° 172;Rio de Janeiro;18;9;2020
+134642;Rafael;(32)275383431;rafael@sqlmail.com;rua ana  prado  n° 44;Rio de Janeiro;1;12;2020
+134643;Daniel;(32)551263505;daniel@sqlmail.com;rua francisco  silva  n° 4613;Brasília;1;5;2021
+134644;Marcelo;(32)198593397;marcelo@sqlmail.com;rua joana  prado  n° 512;Brasília;21;8;2020
+134645;Bruno;(32)437207555;bruno@sqlmail.com;rua carlos  gomes  n° 534;São Paulo;27;5;2021
+134646;Rafael;(32)713560079;rafael@sqlmail.com;rua melquisedeque  reis  n° 270;Rio de Janeiro;31;5;2021
