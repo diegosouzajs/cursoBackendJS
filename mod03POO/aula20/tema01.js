@@ -24,7 +24,7 @@ function rand(min = 1000, max = 3000){
 function f1(callback){
     // time out aleatório
     const tempo = rand()
-    console.log(tempo);
+    // console.log(tempo);
     setTimeout(function(){
         console.log('f1');        
         if (callback) callback();
@@ -35,7 +35,7 @@ function f1(callback){
 function f2(callback){
     // time out aleatório
     const tempo = rand()
-    console.log(tempo);
+    // console.log(tempo);
     setTimeout(function(){
         console.log('f2')
         if (callback) callback();
@@ -46,7 +46,7 @@ function f2(callback){
 function f3(callback){
     // time out aleatório
     const tempo = rand()
-    console.log(tempo);
+    // console.log(tempo);
     setTimeout(function(){
         console.log('f3')
         if (callback) callback();
@@ -54,35 +54,35 @@ function f3(callback){
 }
 
 
-f1();
-f2();
-f3();
+// f1();
+// f2();
+// f3();
 // callback hell
-// f1(function (){
-//     f2(function(){
-//         f3(function (){
-//             console.log('Olá mundo!');
-//         })
-//     })
-// })
+f1(function (){
+    f2(function(){
+        f3(function (){
+            console.log('Olá mundo!');
+        })
+    })
+})
 
-f1(f1Callback);
+// f1(f1Callback);
 
-function f1Callback(){
-    f2(f2Callback);
-}
-
-function f2Callback(){
-    f3(f3Callback);
-}
-
-function f3Callback(){
-    console.log('Consulta realizada');
-}
-
-// async function consulta(){
-//     const item = await 
-
+// function f1Callback(){
+//     f2(f2Callback);
 // }
 
-console.log('Oi');
+// function f2Callback(){
+//     f3(f3Callback);
+// }
+
+// function f3Callback(){
+//     console.log('Consulta realizada');
+// }
+
+// // async function consulta(){
+// //     const item = await 
+
+// // }
+
+// console.log('Oi');
