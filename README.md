@@ -13,7 +13,7 @@
 * [Módulo 03 - Programação Orientada a Objeto - Parte 1](https://www.canva.com/design/DAG2UzE65kQ/8pc4HdFlhBUMLBl6Ug3cow/edit)
 * [Módulo 03 - Programação Orientada a Objeto - Parte 2](https://www.canva.com/design/DAGwK254KDo/vWVWUxa_CijcaRmDUiaKPg/edit)
 * [Módulo 04 - Banco de dados](https://www.canva.com/design/DAGwK09lDZc/vb7pnqV2DqzHi1AEvZYauQ/edit)
-* Módulo 05 - Padrões de Softwares
+* [Módulo 05 - Padrões de Softwares](https://www.canva.com/design/DAGwK1pldrc/eJ6FwhADLlxb6eSCDZfwzQ/edit)
 * Módulo 06 - WebServices
 * Módulo 07 - Node.JS + Express
 * Módulo 08 - Soft Skills
