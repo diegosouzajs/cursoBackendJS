@@ -1,4 +1,3 @@
-    
 // SUJEITO (Subject)
 
 // A classe WeatherStation representa o sujeito observado.
