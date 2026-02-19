@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Diego",
+    "sobrenome": "Souza",
+    "idade": 39
+  },
+  {
+    "nome": "Saul",
+    "sobrenome": "Viana",
+    "idade": 8
+  },
+  {
+    "nome": "Roberto",
+    "sobrenome": "Souza",
+    "idade": 45
+  },
+  {
+    "nome": "Sinval",
+    "sobrenome": "Dias",
+    "idade": 70
+  },
+  {
+    "nome": "Roberto",
+    "sobrenome": "Souza",
+    "idade": 45
+  },
+  {
+    "nome": "Sinval",
+    "sobrenome": "Dias",
+    "idade": 70
+  }
+]
