@@ -20,6 +20,12 @@
 * Módulo 07 - WebServices
 * Módulo 08 - Soft Skills
 
+## Projeto final
+
+Descrição completa do projeto final a ser entregue até o dia 24 de março de 2026. As apresentações ocorrerão nos dias 25 e 26 de março de 2026.
+
+- [Projeto Final](mod06NodeExpress\ProjetoFinal.pdf)
+
 ## Aulas remotas
 - [To-do list](https://academicoifmg-my.sharepoint.com/:v:/g/personal/diego_souza_academico_ifmg_edu_br/ERahAxMn1QVNier0_fFc4JgBvBxpdZu3B1jKzthTqyk3Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=mRiXW3)
 - [Calculador](https://academicoifmg-my.sharepoint.com/:v:/g/personal/diego_souza_academico_ifmg_edu_br/IQBdqt1lyegeRJXQcyja8ub9Adp0kNFJ_Xy08dffCCkYoB8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ShRIo4)
