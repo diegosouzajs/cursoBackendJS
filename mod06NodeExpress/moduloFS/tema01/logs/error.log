@@ -1,0 +1,91 @@
+
+        [2026-02-19T16:04:47.394Z]
+        Caminho: ../arquivos/arquivo.txt
+        Mensagem: Error: ENOENT: no such file or directory, open 'C:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\arquivos\arquivo.txt's
+        Stack: Error: ENOENT: no such file or directory, open 'C:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\arquivos\arquivo.txt'
+    at async open (node:internal/fs/promises:637:25)
+    at async writeFile (node:internal/fs/promises:1239:14)
+    at async escreveArquivo (c:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\moduloFS\index.js:46:9)
+        
+        [2026-02-19T16:05:17.942Z]
+        Caminho: ../arquivos/arquivo.txt
+        Mensagem: Error: ENOENT: no such file or directory, open 'C:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\arquivos\arquivo.txt's
+        Stack: Error: ENOENT: no such file or directory, open 'C:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\arquivos\arquivo.txt'
+    at async open (node:internal/fs/promises:637:25)
+    at async writeFile (node:internal/fs/promises:1239:14)
+    at async escreveArquivo (c:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\moduloFS\index.js:46:9)
+        
+        [2026-02-19T17:00:30.627Z]
+        Caminho: Segunda mensagem
+        Mensagem: Error: Não foi possível adicionar conteúdo no arquivos
+        Stack: Error: Não foi possível adicionar conteúdo no arquivo
+    at escreveArquivo (c:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\moduloFS\fsParaTxt\fileTxt.js:45:19)
+    at Object.<anonymous> (c:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\moduloFS\fsParaTxt\fileTxt.js:54:1)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+        
+        [2026-02-19T17:00:38.674Z]
+        Caminho: Segunda mensagem
+        Mensagem: Error: Não foi possível adicionar conteúdo no arquivos
+        Stack: Error: Não foi possível adicionar conteúdo no arquivo
+    at escreveArquivo (c:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\moduloFS\fsParaTxt\fileTxt.js:45:19)
+    at Object.<anonymous> (c:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\moduloFS\fsParaTxt\fileTxt.js:54:1)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+        
+        [2026-02-19T17:14:15.938Z]
+        Caminho: c:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\moduloFS\arquivos\arquivo.txt
+        Mensagem: TypeError: fs.createReadStream is not a functions
+        Stack: TypeError: fs.createReadStream is not a function
+    at lerLinha (c:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\moduloFS\fsParaTxt\lerArquivoPorLinha.js:22:31)
+    at Object.<anonymous> (c:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\moduloFS\fsParaTxt\lerArquivoPorLinha.js:38:1)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+        
+        [2026-02-19T17:14:48.305Z]
+        Caminho: c:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\moduloFS\arquivos\arquivo.txt
+        Mensagem: TypeError: fs.createReadStream is not a functions
+        Stack: TypeError: fs.createReadStream is not a function
+    at lerLinha (c:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\moduloFS\fsParaTxt\lerArquivoPorLinha.js:22:31)
+    at Object.<anonymous> (c:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\moduloFS\fsParaTxt\lerArquivoPorLinha.js:38:1)
+    at Module._compile (node:internal/modules/cjs/loader:1761:14)
+    at Object..js (node:internal/modules/cjs/loader:1893:10)
+    at Module.load (node:internal/modules/cjs/loader:1481:32)
+    at Module._load (node:internal/modules/cjs/loader:1300:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:245:24)
+    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)
+    at node:internal/main/run_main_module:33:47
+        
+        [2026-02-19T17:16:19.763Z]
+        Caminho: c:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\moduloFS\arquivos\arquivo.txt
+        Mensagem: ReferenceError: setTimeOut is not defineds
+        Stack: ReferenceError: setTimeOut is not defined
+    at lerLinha (c:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\moduloFS\fsParaTxt\lerArquivoPorLinha.js:29:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+        
+        [2026-02-19T17:17:49.483Z]
+        Caminho: c:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\moduloFS\arquivos\arquivo.txt
+        Mensagem: ReferenceError: delay is not defineds
+        Stack: ReferenceError: delay is not defined
+    at lerLinha (c:\Users\Diego\Dropbox\BACKEND JAVASCRIPT\AULAS\cursoBackendJS\mod06NodeExpress\moduloFS\fsParaTxt\lerArquivoPorLinha.js:27:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+        
