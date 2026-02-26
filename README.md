@@ -15,6 +15,8 @@
 * [Módulo 04 - Banco de dados](https://www.canva.com/design/DAGwK09lDZc/vb7pnqV2DqzHi1AEvZYauQ/edit)
 * [Módulo 05 - Padrões de Softwares](https://www.canva.com/design/DAGwK1pldrc/eJ6FwhADLlxb6eSCDZfwzQ/edit)
 * [Módulo 06 - Node.JS + Express](https://www.canva.com/design/DAGwK_WRdmo/aYWDJeONsIwDlEmXvx1m6w/edit)
+    - [Videoaulas - NodeJS](https://www.youtube.com/playlist?list=PLgocRjTIGIoafbVLFAcYbQ4P5ZWIqvfc2)
+    - [Agenda em NodeJS](https://github.com/srdiegorodrigues/agenda)
 * Módulo 07 - WebServices
 * Módulo 08 - Soft Skills
 
