@@ -17,8 +17,12 @@
 * [Módulo 06 - Node.JS + Express](https://www.canva.com/design/DAGwK_WRdmo/aYWDJeONsIwDlEmXvx1m6w/edit)
     - [Videoaulas - NodeJS](https://www.youtube.com/playlist?list=PLgocRjTIGIoafbVLFAcYbQ4P5ZWIqvfc2)
     - [Agenda em NodeJS](https://github.com/srdiegorodrigues/agenda)
+    -[Estrutura básica de um projeto NodeJS no padrão MVC](https://github.com/srdiegorodrigues/estruturaBasicaprojetoNode)
 * Módulo 07 - WebServices
 * Módulo 08 - Soft Skills
+
+## Modelo de Documentação de Software
+ - [Modelo](ModeloDocumentacaoSoftware.pdf)
 
 ## Projeto final
 
