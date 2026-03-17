@@ -1,0 +1,38 @@
+[
+  {
+    "cep": "35425021",
+    "rua": "Rua Dois de Outubro",
+    "numero": "",
+    "bairro": "Vila Maquiné",
+    "cidade": "Mariana",
+    "estado": "MG",
+    "pais": "Brasil"
+  },
+  {
+    "cep": "01001000",
+    "rua": "Praça da Sé",
+    "numero": "",
+    "bairro": "Sé",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "pais": "Brasil"
+  },
+  {
+    "cep": "35404498",
+    "rua": "Rua Vereador Edmundo José Vieira",
+    "numero": "61",
+    "bairro": "Nossa Senhora de Lourdes",
+    "cidade": "Ouro Preto",
+    "estado": "MG",
+    "pais": "Brasil"
+  },
+  {
+    "cep": "35419000",
+    "rua": "Rua x",
+    "numero": "61",
+    "bairro": "Santa Rita de Ouro Preto",
+    "cidade": "Ouro Preto",
+    "estado": "MG",
+    "pais": "Brasil"
+  }
+]
