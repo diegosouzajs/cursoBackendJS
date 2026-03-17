@@ -22,6 +22,9 @@
     * [Postman](https://www.postman.com/downloads/): O Postman é uma plataforma completa e popular para desenvolvimento, teste, documentação e compartilhamento de APIs (Interface de Programação de Aplicações). Ele funciona como uma interface gráfica intuitiva que permite aos desenvolvedores enviar requisições HTTP (como GET, POST, PUT, DELETE) e visualizar respostas de servidores, facilitando a depuração e testes sem precisar escrever código.
 * Módulo 08 - Soft Skills
 
+## Estrutura básica
+- [Estrutura básica de um projeto em NodeJS](https://github.com/srdiegorodrigues/agenda)
+
 ## Modelo de Documentação de Software
  - [Modelo](ModeloDocumentacaoSoftware.pdf)
 
