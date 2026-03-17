@@ -17,8 +17,9 @@
 * [Módulo 06 - Node.JS + Express](https://www.canva.com/design/DAGwK_WRdmo/aYWDJeONsIwDlEmXvx1m6w/edit)
     - [Videoaulas - NodeJS](https://www.youtube.com/playlist?list=PLgocRjTIGIoafbVLFAcYbQ4P5ZWIqvfc2)
     - [Agenda em NodeJS](https://github.com/srdiegorodrigues/agenda)
-    -[Estrutura básica de um projeto NodeJS no padrão MVC](https://github.com/srdiegorodrigues/estruturaBasicaprojetoNode)
-* Módulo 07 - WebServices
+    - [Estrutura básica de um projeto NodeJS no padrão MVC](https://github.com/srdiegorodrigues/estruturaBasicaprojetoNode)
+* [Módulo 07 - WebServices](https://www.canva.com/design/DAGwKyWQ5-s/v2gsK1g7Ha9fXn3yp7z4oQ/edit)
+    * [Postman](https://www.postman.com/downloads/): O Postman é uma plataforma completa e popular para desenvolvimento, teste, documentação e compartilhamento de APIs (Interface de Programação de Aplicações). Ele funciona como uma interface gráfica intuitiva que permite aos desenvolvedores enviar requisições HTTP (como GET, POST, PUT, DELETE) e visualizar respostas de servidores, facilitando a depuração e testes sem precisar escrever código.
 * Módulo 08 - Soft Skills
 
 ## Modelo de Documentação de Software
@@ -40,7 +41,7 @@ Descrição completa do projeto final a ser entregue até o dia 24 de março de 
 ## Conteúdo extra
  - [HTML](https://www.facom.ufu.br/~rafaelaraujo/docs/GSI019/2-HTML.pdf)
  - [Javascript](https://www.facom.ufu.br/~rafaelaraujo/docs/GSI019/6-Javascript.pdf)
-  - [DOM](https://braganholo.github.io/material/gdse/13-DOM.pdf)
+ - [DOM](https://braganholo.github.io/material/gdse/13-DOM.pdf)
 
 ## Documentação oficial
 
@@ -57,6 +58,7 @@ Descrição completa do projeto final a ser entregue até o dia 24 de março de 
  - [Vscode](https://code.visualstudio.com/)
  - [GitHub](https://github.com/?locale=pt-br)
  - [Git](https://git-scm.com/downloads)
+ - [Postman](https://www.postman.com/downloads/)
 
 ## Compiladores online
  - [RunJS](https://runjs.app/play)
@@ -72,12 +74,14 @@ Descrição completa do projeto final a ser entregue até o dia 24 de março de 
  - [Banco de dados](https://www.youtube.com/watch?v=GdxodSoV_5k&list=PLvUnyzH5T1MwlompyzqZ1ADY0F92Bd7DS)
  - [CSS](https://www.udemy.com/course/curso-basico-de-css3-tipscode/)
  - [HTML](https://www.udemy.com/course/introducao-a-linguagem-html/)
+ - [API com NodeJS](https://www.youtube.com/watch?v=94FonmsT27s)
 
 ## Plugins úteis do vscode
  - Code Runner: plugin capaz de executar diversas linguagens diretamente no vscode
  - Material Icon Theme: modifica os ícones dos arquivos e pastas do explorer do vscode
  - Om Theme (A Darker Dracula Theme): tema que utilizo em meu Vscode
  - Live Server: Execute um servidor local de desenvolvimento com recarregamento automático para páginas estáticas e dinâmicas
+ - SQLite Viewer: plugin que possibilita a visualização da base de dados sqlite dentro do vscode
 
  ## Meu arquivo settings.json do vscode
 
