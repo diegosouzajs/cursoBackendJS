@@ -35,9 +35,9 @@ Descrição completa do projeto final a ser entregue até o dia 24 de março de 
 - [Projeto Final](mod06NodeExpress/ProjetoFinal.pdf)
 
 ### Trabalhos entregues
-- Grupo 1 - Marketplace
-- Grupo 2 - PapperToken
-- Grupo 3 - Controle de Estoque
+- Grupo 1 - [Marketplace](TrabalhoFinal/marketplace/)
+- Grupo 2 - [PapperToken](TrabalhoFinal/paperToken/)
+- Grupo 3 - [Controle de Estoque](TrabalhoFinal/controleDeEstoque)
 
 ## Aulas remotas
 - [To-do list](https://academicoifmg-my.sharepoint.com/:v:/g/personal/diego_souza_academico_ifmg_edu_br/ERahAxMn1QVNier0_fFc4JgBvBxpdZu3B1jKzthTqyk3Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=mRiXW3)
