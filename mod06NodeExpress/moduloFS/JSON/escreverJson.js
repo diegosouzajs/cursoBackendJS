@@ -1,10 +1,11 @@
 const fs = require('fs').promises;
 const path = require('path');
 const Pessoa = require('../Pessoa');
+const logError = require('../tratamentoError/logError')
 
 async function adicionaPessoas(novaPessoa){
 
-    const arquivo = path.resolve(__dirname,'..','db', 'novasPessoas.json')
+    const arquivo = path.resolve(__dirname,'..','db', 'pessoas.json')
     const formato = 'utf-8';
     
     try{
@@ -20,7 +21,7 @@ async function adicionaPessoas(novaPessoa){
             }
         } catch (e){
             // se não existir, inicia como array vazio
-            pessoas= [];
+            pessoas = [];
         }
 
         // adiciona nova pessoa
@@ -35,7 +36,7 @@ async function adicionaPessoas(novaPessoa){
         console.log('Pessoa adicionada com sucesso');
 
     } catch(e){
-        console.log('Erro ao adicionar pessoa:', e);
+        logError(e,'escreverJson.js', arquivo);
     }
 }
 
