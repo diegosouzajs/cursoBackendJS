@@ -1,0 +1,14 @@
+meuSettings.json
+mod02LogDeProgramacao/logicaDeProgramacao/praticas
+*.sqbpro
+00_tests
+*test*
+pratica
+materials
+exerciciosSala
+*.log
+.env
+*.db
+*.sqlite
+node_modules/
+
