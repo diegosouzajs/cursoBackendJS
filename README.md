@@ -20,7 +20,7 @@
     - [Estrutura básica de um projeto NodeJS no padrão MVC](https://github.com/srdiegorodrigues/estruturaBasicaprojetoNode)
 * [Módulo 07 - WebServices](https://www.canva.com/design/DAGwKyWQ5-s/v2gsK1g7Ha9fXn3yp7z4oQ/edit)
     * [Postman](https://www.postman.com/downloads/): O Postman é uma plataforma completa e popular para desenvolvimento, teste, documentação e compartilhamento de APIs (Interface de Programação de Aplicações). Ele funciona como uma interface gráfica intuitiva que permite aos desenvolvedores enviar requisições HTTP (como GET, POST, PUT, DELETE) e visualizar respostas de servidores, facilitando a depuração e testes sem precisar escrever código.
-* Módulo 08 - Soft Skills
+* [Módulo 08 - Soft Skills](https://www.canva.com/design/DAGwKxHryZI/SHoDXUtZ2i2jngwggTrtQg/edit)
 
 ## Estrutura básica
 - [Estrutura básica de um projeto em NodeJS](https://github.com/srdiegorodrigues/agenda)
@@ -33,6 +33,11 @@
 Descrição completa do projeto final a ser entregue até o dia 24 de março de 2026. As apresentações ocorrerão nos dias 25 e 26 de março de 2026.
 
 - [Projeto Final](mod06NodeExpress/ProjetoFinal.pdf)
+
+### Trabalhos entregues
+- Grupo 1 - Marketplace
+- Grupo 2 - PapperToken
+- Grupo 3 - Controle de Estoque
 
 ## Aulas remotas
 - [To-do list](https://academicoifmg-my.sharepoint.com/:v:/g/personal/diego_souza_academico_ifmg_edu_br/ERahAxMn1QVNier0_fFc4JgBvBxpdZu3B1jKzthTqyk3Lw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=mRiXW3)
