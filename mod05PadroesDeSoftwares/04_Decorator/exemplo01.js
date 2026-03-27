@@ -91,6 +91,12 @@ let basicProfile = new BasicProfile(
     "imagemPerfil.jpg"
 );
 
+let basicProfile2 = new BasicProfile(
+    "Bernardo",
+    "Bernardo@email.com",
+    "imagemPerfil.jpg"
+)
+
 // Exibe apenas os dados básicos
 basicProfile.display();
 
