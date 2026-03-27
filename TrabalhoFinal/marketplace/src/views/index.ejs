@@ -1,0 +1,45 @@
+<%-include('./includes/head') %>
+<%-include('./includes/nav') %>
+
+       <div class="container">
+              <div class="row">
+                     <div class="col-lg-2"></div>
+                     <div class="col-lg-8">
+                            <h1 class="text-center">Seu Markplace</h1>
+                            <p class="text-center lead">Lojas Cadastradas:</p>
+
+                            <%- include('includes/messages') %>
+                            <% if(usuarios.length> 0) { %>
+
+                            <div class="responsive-table">
+                                   <table class="table my-3">
+                                          <thead>
+                                                 <tr>
+                                                        <th>Proprietário(a):</th>
+                                                        <th>Nome da Loja:</th>
+                                                        <th>Descrição da Loja:</th>
+                                                 </tr>
+                                          </thead>
+                                          <tbody>
+                                          <% usuarios.forEach( usuario=> { %>
+                                          
+                                                 <tr>
+                                                        <td><%= usuario.nome %></td>
+                                                        <td><%= usuario.nomeLoja %></td>
+                                                        <td><%= usuario.descricaoLoja%></td>
+                                                        <td></td>
+                                                 </tr>
+                                          
+                                          <% }) %>
+                                          </tbody>
+                                   </table>
+                            </div>
+                                   <% } else { %>
+                                   <p class="text-center lead">Não há lojas Cadastradas!</p>
+                                   <% } %>
+                            </div>
+                     <div class="col-lg-2"></div>
+              </div>
+       </div>
+
+<%-include('./includes/footer') %>
